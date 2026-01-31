@@ -18,7 +18,9 @@ Incluye:
 
 ## 📁 Notebook principal
 
-👉 [`Prediccion precios propiedades.ipynb`](./GraficosClasicos/Prediccion%20precios%20propiedades.ipynb)
+👉 [Prediccion precios propiedades.ipynb (versión 2023)]
+(https://github.com/lmartinelli71/GraficosClasicos/blob/42e8e1b9ec9be6f99298b8d90724dd6a09e7b940/GraficosClasicos/Prediccion%20precios%20propiedades.ipynb)
+
 
 (commit original: 2023)
 
