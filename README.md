@@ -69,6 +69,8 @@ data pipelines into usable analytical products.
 - Pandas
 - GeoPandas
 - NumPy
+- yfinance
+- pandas-datareader
 - Matplotlib / Seaborn / Plotly
 - Jupyter Notebook
 - Google Colab
