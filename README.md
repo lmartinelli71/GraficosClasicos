@@ -32,8 +32,8 @@ focused on predicting residential property prices.
 
 ### Main Notebook (Historical Version)
 
-👉 [Prediccion precios propiedades.ipynb — 2023](https://github.com/lmartinelli71/GraficosClasicos/blob/42e8e1b9ec9be6f99298b8d90724dd6a09e7b940/Prediccion%20precios%20propiedades.ipynb)
-👉 applied-financial-analysis.ipynb (Financial data pipelines)
+- 👉 [Prediccion precios propiedades.ipynb — 2023](https://github.com/lmartinelli71/GraficosClasicos/blob/42e8e1b9ec9be6f99298b8d90724dd6a09e7b940/Prediccion%20precios%20propiedades.ipynb)
+- 👉 applied-financial-analysis.ipynb (Financial data pipelines)
 
 📜 Original commit: 2023 (preserved for technical reference)
 
